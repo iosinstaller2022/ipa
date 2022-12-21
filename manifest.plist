@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/zxg9iyohgt9g03x/Auditmon.ipa</string>
+					<string>https://iosinstaller2022.github.io/ipa/Auditmon.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/zxg9iyohgt9g03x/Auditmon.png</string>
+					<string>https://iosinstaller2022.github.io/ipa/Auditmon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/zxg9iyohgt9g03x/Auditmon.png</string>
+					<string>https://iosinstaller2022.github.io/ipa/Auditmon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
